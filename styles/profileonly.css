@@ -1,0 +1,66 @@
+html,
+body{
+    height: 100%;
+}
+header{
+    height:100px;
+}
+.container-fluid
+{
+    height: 100%;
+}
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #001230;
+}
+
+.top-nav-collapse #header-nav
+{
+    color:white;
+}
+
+heading18,#heading17,#heading16,#heading15,#headingOne,#headingTwo,#headingThree,#headingFour,#headingFive,#headingSix,#headingSeven,#headingSeven,#headingEight,#headingNine,#headingTen,#heading11,#heading12,#heading13,#heading14
+{
+    background-color: #ffffff;
+}
+.card
+{
+    background-color: white;
+}
+.card-header button
+{
+    font-family: 'Agency FB';
+    background-color: transparent;
+    font-size: 24px;
+    letter-spacing: 5px;
+    width: 100%;
+    color: #3f4081;
+}
+.card-header button:hover
+{
+    color: #3f4081;
+    background-color: transparent;
+}
+.card-header button:active
+{
+    color: #3f4081;
+}
+.card-header button:focus
+{
+    color: #3f4081;
+}
+
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #001230;
+    }
+    #main-header-joinus{
+        font-family: 'Agency FB';
+        font-size: 22px;
+        letter-spacing: 5px;
+        padding: 10px;
+    }
+}

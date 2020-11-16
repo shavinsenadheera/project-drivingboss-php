@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="614e7278-5779-49f4-8816-093f4cd4bdf1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="composer.json" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/bootstrap/css" />
+      <path value="$PROJECT_DIR$/vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/css" />
+      <path value="$PROJECT_DIR$/vendor/fontawesome-free/webfonts" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1iiIpKZzliGCfQSJMZFNNsEj71r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/apdpanel" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\apdpanel" />
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\datatables" />
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\js" />
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\css" />
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\apdpanel\assets" />
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\apdpanel" />
+      <recent name="C:\xampp\htdocs\Harsha Samaranayake\Project\extra\styles" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="614e7278-5779-49f4-8816-093f4cd4bdf1" name="Default Changelist" comment="" />
+      <created>1602384184621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602384184621</updated>
+      <workItem from="1602384189979" duration="32557000" />
+      <workItem from="1602472342198" duration="55742000" />
+      <workItem from="1602559159839" duration="54493000" />
+      <workItem from="1602647852441" duration="58654000" />
+      <workItem from="1602733695688" duration="36983000" />
+      <workItem from="1602788373169" duration="12015000" />
+      <workItem from="1602827235431" duration="48472000" />
+      <workItem from="1602911715737" duration="36754000" />
+      <workItem from="1602949817713" duration="27391000" />
+      <workItem from="1602992733048" duration="83442000" />
+      <workItem from="1603360039136" duration="1528000" />
+      <workItem from="1603993581068" duration="1445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602964917317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602964917317" />
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom" timestamp="1602431547469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602431547469" />
+    <state width="1493" height="201" key="GridCell.Tab.0.center" timestamp="1602431547440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602431547440" />
+    <state width="1493" height="201" key="GridCell.Tab.0.left" timestamp="1602431547440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602431547440" />
+    <state width="1493" height="201" key="GridCell.Tab.0.right" timestamp="1602431547440">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="201" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602431547440" />
+    <state x="487" y="119" key="NewPhpClassDialog" timestamp="1603026099706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="119" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1603026099706" />
+    <state x="604" y="331" key="NewPhpFileDialog" timestamp="1603050700575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="331" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1603050700575" />
+    <state x="85" y="111" width="1350" height="638" maximized="true" key="dock-window-1" timestamp="1602879257204">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="85" y="111" width="1350" height="638" maximized="true" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1602879257204" />
+    <state x="426" y="187" width="672" height="677" key="run.anything.popup" timestamp="1603109740038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="426" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1603109740038" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603049696118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603049696118" />
+  </component>
+</project>

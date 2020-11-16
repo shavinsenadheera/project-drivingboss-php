@@ -1,0 +1,64 @@
+html,
+body,
+header,
+.view {
+    height: 100%;
+}
+.intro-2 {
+    background-image: url('https://www.drivingboss.co.uk/wp-content/uploads/2020/10/slide.jpg');
+    background-size: cover;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.top-nav-collapse {
+    background-color: #001230;
+}
+
+.top-nav-collapse #header-nav
+{
+    color:white;
+}
+#main-header-joinus
+{
+    font-family: 'Agency FB';
+    font-size: 62px;
+    letter-spacing: 10px;
+}
+#second-header-joinus
+{
+    font-family: 'Arial';
+    font-size: 26px;
+    color:white;
+}
+#btn-get-started
+{
+    letter-spacing: 10px;
+    font-weight: bold;
+    font-size: 16px;
+}
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #001230;
+    }
+    #main-header-joinus{
+        font-family: 'Agency FB';
+        font-size: 22px;
+        letter-spacing: 5px;
+        padding: 10px;
+    }
+    #second-header-joinus
+    {
+        font-family: 'Arial';
+        font-size: 18px;
+        color:white;
+    }
+    #btn-get-started
+    {
+        letter-spacing: 5px;
+        font-weight: bold;
+        font-size: 10px;
+    }
+}

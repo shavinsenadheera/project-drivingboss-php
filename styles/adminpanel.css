@@ -1,0 +1,31 @@
+
+#heading18,#heading17,#heading16,#heading15,#headingOne,#headingTwo,#headingThree,#headingFour,#headingFive,#headingSix,#headingSeven,#headingSeven,#headingEight,#headingNine,#headingTen,#heading11,#heading12,#heading13,#heading14
+{
+    background-color: #263238;
+}
+.card
+{
+    background-color: transparent;
+}
+.card-header button
+{
+    font-family: 'Agency FB';
+    background-color: transparent;
+    font-size: 24px;
+    letter-spacing: 5px;
+    width: 100%;
+    color:white;
+}
+.card-header button:hover
+{
+    color:white;
+    background-color: transparent;
+}
+.card-header button:active
+{
+    color:white;
+}
+.card-header button:focus
+{
+    color:white;
+}

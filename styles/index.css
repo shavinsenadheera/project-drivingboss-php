@@ -1,0 +1,211 @@
+html,
+body{
+    height: 100%;
+}
+#highlited-black
+{
+    font-weight: bold;
+}
+#notify-sec-3
+{
+    display: none;
+}
+#notify-sec-4
+{
+    display: none;
+}
+#dots
+{
+    text-align:center;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+#form-text
+{
+    font-size: 20px;
+    font-weight: bolder;
+}
+#temperCategoryB
+{
+    display: none;
+}
+#regForm {
+    background-color: white;
+    font-family: "Font Awesome\ 5 Free", sans-serif;
+    width: 100%;
+    padding:40px;
+    border-radius: 10px;
+    margin-top: 20px;
+    height:100%;
+    border: 6px solid #cbcbcb;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Mark input boxes that gets an error on validation: */
+input.invalid {
+    background-color: #ffdddd;
+}
+
+/* Hide all steps by default: */
+.tab {
+    display: none;
+}
+button:hover {
+    opacity: 0.8;
+}
+#prevBtn {
+    background-color: #bbbbbb;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+    height: 10px;
+    width: 10px;
+    margin: 0 2px;
+    background-color: #0d2c88;
+    border: none;
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.step.active {
+    opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+    background-color: #8700d4;
+}
+#top-hr
+{
+    background-color: silver;
+}
+
+
+#background-toggle{
+    top:0;
+    float: right;
+    z-index:11;
+}
+
+#toggle-main
+{
+    color: white;
+}
+
+#formconatiner
+{
+    background-color: transparent;
+}
+#formstylecon
+{
+    background-color: transparent;
+}
+#btn-login
+{
+    letter-spacing: 5px;
+}
+h4,h6
+{
+    color:#7200c7
+}
+
+.progress {
+    height: 4px;
+}
+
+.progress-bar {
+    background-color: green;
+}
+#heading18,#heading17,#heading16,#heading15,#headingOne,#headingTwo,#headingThree,#headingFour,#headingFive,#headingSix,#headingSeven,#headingSeven,#headingEight,#headingNine,#headingTen,#heading11,#heading12,#heading13,#heading14
+{
+    background-color: #132845;
+}
+.card
+{
+    background-color: transparent;
+}
+.card-header button
+{
+    font-family: 'Agency FB';
+    background-color: transparent;
+    font-size: 24px;
+    letter-spacing: 5px;
+    width: 100%;
+    color:white;
+}
+.card-header button:hover
+{
+    color:white;
+    background-color: transparent;
+}
+.card-header button:active
+{
+    color:white;
+}
+.card-header button:focus
+{
+    color:white;
+}
+#second-topic{
+    color: #bcbcbc;
+}
+#accurateback-img{
+    width:300px;
+    height: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+    #nextBtn{
+        font-size:9px ;
+    }
+    #prevBtn{
+        font-size:9px ;
+    }
+    #regForm{
+        font-size: 14px;
+    }
+    h1
+    {
+        font-size: 14px;
+    }
+    h4{
+        font-size: 14px;
+    }
+    #avrg-secrb{
+        font-size: 14px;
+    }
+    #form-topicdscrb{
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .tab input{
+        font-size: 14px;
+    }
+    .tab select{
+        font-size: 14px;
+    }
+    #formconatiner{
+        font-size: 14px;
+    }
+    .step{
+        height: 4px;
+        width: 4px;
+    }
+    .tab .md-form  label{
+        font-size: 14px;
+    }
+    .tab .md-form i{
+        font-size: 20px;
+    }
+    #second-topic{
+        color:white;
+    }
+    #accurateback-img{
+        width:200px;
+        height: 100px;
+    }
+}
+
